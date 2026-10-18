@@ -4,9 +4,7 @@
 <p align="center">
   <img src="https://files.catbox.moe/ir1zvx.png"style="width: 120%; height: 100px;" />
 </p>
-<p align="center">
-  <img src="https://files.catbox.moe/tzyeyr.webp"style="width: 100%; height: 130px;" /> 
-</p> 
+
 <table align="center"> 
   <tr>
          <td align="center" valign="middle" width="130">
