@@ -16,8 +16,6 @@
                   <img src="https://files.catbox.moe/xwq1pe.webp"style="width: 100%; height:auto;"/> 
       </td>
     <td align="center" valign="middle" width="690"> 
-     <img src="https://files.catbox.moe/lztmpz.webp"style="width: 100%; height: auto;"/>
-     <br></br>
    <img src="https://static.wikia.nocookie.net/umineko/images/1/1c/Evatrice_storymode_%284%29.png/revision/latest?cb=20210715162035"style="width: 43%; height:auto;"/>
      <img src="https://files.catbox.moe/pwzvp0.png"style="width: 10%; height:auto;"/>
      <a href="https://txto.eu.org/saltoangel"><img src="https://files.catbox.moe/a6zke3.png"style="width: 30%; height: auto;"/></a> 
@@ -37,5 +35,6 @@
   </tr> 
 </table> 
 </div>
-
-
+<p align="center">
+  <img src="https://files.catbox.moe/ir1zvx.png"style="width: 120%; height: 100px;" />
+</p>
