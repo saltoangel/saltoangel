@@ -14,7 +14,6 @@
         <img src="https://files.catbox.moe/0adgs6.webp"style="width: 100%; height:auto;"/>
         <img src="https://files.catbox.moe/jbzh0j.webp"style="width: 100%; height:auto;"/>
         <img src="https://files.catbox.moe/5inf2m.webp"style="width: 100%; height:auto;"/> 
-        <img src="https://files.catbox.moe/zb7o26.png"style="width: 100%; height:auto;"/>
                   <img src="https://files.catbox.moe/xwq1pe.webp"style="width: 100%; height:auto;"/> 
       </td>
     <td align="center" valign="middle"> 
@@ -31,7 +30,6 @@
          <img src="https://files.catbox.moe/uclzci.webp"style="width: 100%; height:auto;"/>
          <img src="https://files.catbox.moe/v9u3hd.webp"style="width: 100%; height:auto;"/>
          <img src="https://files.catbox.moe/qtpcvu.webp"style="width: 100%; height:auto;"/>
-         <img src="https://files.catbox.moe/zb7o26.png"style="width: 100%; height:auto;"/>
                   <img src="https://files.catbox.moe/xwq1pe.webp"style="width: 100%; height:auto;"/> 
       </td>
   </tr> 
