@@ -38,4 +38,6 @@
 <p align="center">
   <img src="https://files.catbox.moe/ir1zvx.png"style="width: 120%; height: 100px;" />
 </p>
-https://github.com/user-attachments/assets/493a38eb-7048-4951-afcf-e78f333209af
+
+https://github.com/user-attachments/assets/6ccda24d-5269-42d3-897f-238bfeee10b3
+
